@@ -6,7 +6,17 @@ Text Editor app which can function both online and offline by making it availabl
 
 ## Overview of Work Done
 
-* 
+* Write the scipts to be used while building out the application and adding functionality
+
+* Update event listeners for installation
+
+* Update 'put' and 'get' requests for content to go in and come out of the database
+
+* Add plugins to the webpack configuration and module rules
+
+* Add asset caching so data can be saved and most up to date data is available
+
+* Test for functionality
 
 ## Webpage
 
