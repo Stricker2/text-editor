@@ -14,7 +14,7 @@ App Page:
 
 <img src="./assets/images/text-editor-screenshot.png"/>
 
-Link: https://fast-badlands-45559.herokuapp.com/
+Link: https://stormy-castle-41559.herokuapp.com/
 
 ## Contributors
 
